@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b6a8493-75ff-41c0-9dc3-5e48e00c89f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/quoteproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/quoteproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quoteproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/quoteproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap-rtl/LICENSE.bootstrap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap-rtl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap-rtl/bootstrap-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/bootstrap/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/css/stylecrm-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/css/stylecrm-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/css/stylecrm.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/css/stylecrm.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/May-14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/The-Lion-King-Desktop-1024x640.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/Zipper-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/avatar4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/avatar5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/basketball-jersey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/boxed-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/carousel-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/AM_mc_vs_ms_ae_UK.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/american-express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/cirrus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/mestro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/paypal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/credit/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/cricket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/cropper.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/customSelect-arrow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/default-50x50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/excel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/football.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/ico/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/json.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/logo9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/m1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/m2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/m3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/m4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/mini-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/ppt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/preload.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/profile-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/shirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/shoe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/sql.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/twitter_corner_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/user1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/user2-160x160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/w9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/weather_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/word.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/img/xml.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/dist/js/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/css/flag-icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/css/flag-icon.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ai.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/al.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/am.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ao.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/aq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/as.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/at.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/au.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/aw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ax.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/az.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/be.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/bz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ca.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ci.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/co.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/cz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/de.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/dj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/dk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/dm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/do.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/dz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/eg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/eh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/er.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/et.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ga.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gb-eng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gb-nir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gb-sct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gb-wls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/gy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/hk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/hm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/hn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/hr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ht.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/hu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/id.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/il.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/im.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/io.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/iq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/is.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/it.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/je.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/jm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/jo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ki.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/km.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ky.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/kz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/la.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/li.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/lv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ma.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/md.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/me.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ml.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/my.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/mz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/na.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ne.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ni.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/np.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/nz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/om.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/pw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/py.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/qa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/re.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/rs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ru.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/rw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/se.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/si.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/so.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/st.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/sz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/td.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/th.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/to.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/tz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ua.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/um.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/un.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/uy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/uz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/va.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/vc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ve.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/vg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/vi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/vn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/vu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/wf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/ye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/yt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/za.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/zm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/1x1/zw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ad.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ae.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/af.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ag.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ai.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/al.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/am.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ao.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/aq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/as.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/at.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/au.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/aw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ax.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/az.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/be.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/bz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ca.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ch.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ci.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ck.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/co.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/cz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/de.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/dj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/dk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/dm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/do.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/dz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ec.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ee.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/eg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/eh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/er.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/et.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/eu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/fr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ga.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gb-eng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gb-nir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gb-sct.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gb-wls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ge.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/gy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/hk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/hm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/hn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/hr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ht.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/hu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/id.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ie.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/il.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/im.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/in.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/io.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/iq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ir.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/is.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/it.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/je.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/jm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/jo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/jp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ki.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/km.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ky.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/kz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/la.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/li.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ls.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/lv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ly.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ma.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/md.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/me.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ml.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mq.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ms.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/my.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/mz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/na.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ne.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ng.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ni.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/np.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/nz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/om.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ph.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ps.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/pw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/py.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/qa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/re.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ro.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/rs.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ru.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/rw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/se.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/si.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/so.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ss.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/st.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sx.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/sz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/td.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/th.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tj.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tk.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tl.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/to.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tr.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tv.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/tz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ua.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ug.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/um.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/un.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/uy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/uz.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/va.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/vc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ve.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/vg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/vi.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/vn.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/vu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/wf.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ws.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/ye.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/yt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/za.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/zm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/flag-icon/flags/4x3/zw.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/changelog-v1.2.0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/css/helper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/css/pe-icon-7-stroke.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/pe-icon-7-stroke/read-me.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/Nestable/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/Nestable/jquery.nestable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/demo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/ns-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/ns-style-attached.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/ns-style-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/ns-style-growl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/css/ns-style-other.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/fonts/linecons/linecons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/fonts/linecons/linecons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/fonts/linecons/linecons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/fonts/linecons/linecons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/js/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/js/modernizr.custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/js/notificationFx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/NotificationStyles/js/snap.svg-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-social/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-social/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-social/bootstrap-social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-toggle/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-toggle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-toggle/bootstrap-toggle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-toggle/bootstrap-toggle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wizard/form.scripts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wizard/jquery.backstretch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wizard/jquery.backstretch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wysihtml5/LICENCE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wysihtml5/bootstrap-wysihtml5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wysihtml5/readme.textile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/bootstrap-wysihtml5/wysihtml5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/chartJs/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/chartJs/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/chartJs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/CHANGES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/adapters/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/build-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/ckeditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/contents.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/bn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/bs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/en-au.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/en-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/is.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ka.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ms.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/about/dialogs/about.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/about/dialogs/logo_ckeditor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/clipboard/dialogs/paste.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/colordialog/dialogs/colordialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/colordialog/dialogs/colordialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/copyformatting/cursors/cursor-disabled.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/copyformatting/cursors/cursor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/copyformatting/styles/copyformatting.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/dialog/dialogDefinition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/div/dialogs/div.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/find/dialogs/find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/flash/dialogs/flash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/flash/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/hiddenfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/select.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/textarea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/dialogs/textfield.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/forms/images/hiddenfield.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/iframe/dialogs/iframe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/iframe/images/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/image/dialogs/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/image/images/noimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/link/dialogs/anchor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/link/dialogs/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/link/images/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/link/images/hidpi/anchor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/liststyle/dialogs/liststyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/magicline/images/hidpi/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/magicline/images/hidpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/magicline/images/icon-rtl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/magicline/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/pagebreak/images/pagebreak.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/pastefromword/filter/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/preview/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/dialogs/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/dialogs/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/scayt/skins/moono-lisa/scayt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_address.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_blockquote.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_div.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_h6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_p.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/showblocks/images/block_pre.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/dialogs/smiley.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/angel_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/angel_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/angry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/angry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/broken_heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/broken_heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/confused_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/confused_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/cry_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/cry_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/devil_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/devil_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/embaressed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/embarrassed_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/embarrassed_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/envelope.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/heart.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/heart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/kiss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/kiss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/lightbulb.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/lightbulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/omg_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/omg_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/regular_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/regular_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/sad_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/sad_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/shades_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/shades_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/teeth_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/teeth_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/thumbs_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/thumbs_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/thumbs_up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/thumbs_up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/tongue_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/tongue_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/tounge_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/whatchutalkingabout_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/wink_smile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/smiley/images/wink_smile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/af.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/bg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/cy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/de-ch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/el.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/en-gb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/eo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/es.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/et.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/eu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/fi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/fr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/gl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/he.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/hu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ja.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/km.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ko.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ku.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/lt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/lv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/nb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/nl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/no.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/oc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/pl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/pt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ru.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/si.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/sk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/sl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/sq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/sv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/th.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/tr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/tt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/ug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/uk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/vi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/specialchar/dialogs/specialchar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/table/dialogs/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/tabletools/dialogs/tableCell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/dialogs/templates.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/dialogs/templates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/templates/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/templates/images/template1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/templates/images/template2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/templates/templates/images/template3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/dialogs/ciframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/dialogs/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/dialogs/wsc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/dialogs/wsc_ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/plugins/wsc/skins/moono-lisa/wsc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/css/samples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/img/github-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/img/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/img/header-separator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/img/navigation-tip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/js/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/js/sf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/ajax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/appendto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/assets/inlineall/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/assets/outputxhtml/outputxhtml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/assets/posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/assets/sample.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/assets/uilanguages/languages.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/datafiltering.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/dialog/assets/my_dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/divreplace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/enterkey/enterkey.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.fla" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/outputforflash.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/htmlwriter/assets/outputforflash/swfobject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/htmlwriter/outputforflash.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/htmlwriter/outputhtml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/inlineall.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/inlinebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/inlinetextarea.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/jquery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/magicline/magicline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/readonly.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/replacebyclass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/replacebycode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/sample.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/sample.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/sample_posteddata.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/tabindex.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/toolbar/toolbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/uicolor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/uilanguages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/wysiwygarea/fullpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/old/xhtmlstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/js/abstracttoolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/js/fulltoolbareditor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/js/toolbarmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/js/toolbartextmodifier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/neo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/samples/toolbarconfigurator/lib/codemirror/show-hint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/dialog_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/dialog_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/dialog_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/editor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/editor_gecko.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/editor_ie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/editor_ie8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/editor_iequirks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/icons_hidpi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/hidpi/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/hidpi/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/hidpi/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/hidpi/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/lock-open.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/lock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/refresh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/images/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/skins/moono-lisa/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ckeditor/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/comment/comment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/comment/continuecomment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/dialog/dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/dialog/dialog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/closebrackets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/closetag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/continuelist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/matchbrackets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/matchtags.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/edit/trailingspace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/brace-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/comment-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/foldcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/foldgutter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/foldgutter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/indent-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/markdown-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/fold/xml-fold.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/scroll/annotatescrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/scroll/scrollpastend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/scroll/simplescrollbars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/scroll/simplescrollbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/jump-to-line.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/match-highlighter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/matchesonscrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/matchesonscrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/search/searchcursor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/addon/wrap/hardwrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/codemirror.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/codemirror.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/keymap/sublime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/mode/javascript/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/mode/javascript/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/mode/javascript/json-ld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/mode/javascript/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/mode/javascript/typescript.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/codemirror/theme/monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/counterup/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/counterup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/counterup/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/counterup/waypoints.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/cropper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/cropper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/cropper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/cropper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/cropper/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datamaps/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datamaps/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datamaps/d3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datamaps/datamaps.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datamaps/topojson.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datatables/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datatables/dataTables.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datatables/dataTables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/datatables/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/basic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/dropzone-amd-module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/dropzone.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/dropzone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/min/basic.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/min/dropzone-amd-module.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/min/dropzone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/min/dropzone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dist/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dropzone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/dropzone/dropzone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/emojionearea/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/emojionearea/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/emojionearea/emojionearea.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/emojionearea/emojionearea.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fastclick/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fastclick/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fastclick/fastclick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fastclick/fastclick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/jquery.flot.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/jquery.flot.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/jquery.flot.pie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/flot/jquery.flot.pie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/LICENSE-GPLv3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/css/fonts/footable.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/css/fonts/footable.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/css/fonts/footable.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/css/fonts/footable.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/css/footable.core.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/footable-bootstrap/js/footable.all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/CHANGELOG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/CONTRIBUTING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/fullcalendar.print.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_diagonals-thick_90_eeeeee_40x40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_glass_100_e4f1fb_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_glass_50_3baae3_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_glass_80_d7ebf9_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_highlight-hard_100_f2f5f7_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_highlight-hard_70_000000_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_highlight-soft_100_deedf7_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-bg_highlight-soft_25_ffef8f_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-icons_2694e8_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-icons_3d80b3_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-icons_72a7cf_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/cupertino/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/fullcalendar/lib/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/horizontal-timeline/cd-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/horizontal-timeline/horizontal-timeline.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/horizontal-timeline/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/horizontal-timeline/modernizr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/icheck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/icheck.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/flat@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/flat/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/futurico/futurico.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/futurico/futurico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/futurico/futurico@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/line@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/line/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/minimal/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/polaris/polaris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/polaris/polaris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/polaris/polaris@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/square.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/square@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/icheck/skins/square/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/License.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/css/ion.rangeSlider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/css/ion.rangeSlider.skinFlat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/img/sprite-skin-flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/img/sprite-skin-modern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/img/sprite-skin-nice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/img/sprite-skin-simple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/js/ion.rangeSlider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/js/ion.rangeSlider.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/ion/readme.ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jQuery/jquery-1.12.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_444444_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_555555_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_777620_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_777777_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_cc0000_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/images/ui-icons_ffffff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jquery-ui-1.12.1/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/LICENSE-AGPL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/LICENSE-COMMERCIAL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-2.0.3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-2.0.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-asia-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-au-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-europe-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-in-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-uk_countries-mill.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-us-aea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/jvectormap/jquery-jvectormap-world-mill-en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/lobipanel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/lobipanel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/lobipanel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/lobipanel/lobipanel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/markdown/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/markdown/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/markdown/bootstrap-markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/markdown/bootstrap-markdown.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/modals/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/modals/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/modals/component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/modals/modalEffects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/moment/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/moment/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/moment/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/moment/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/monthly/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/monthly/monthly.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/monthly/monthly.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/morris-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/morris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/morris.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/morris.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/morris/raphael.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/pace/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/pace/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/pace/flash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/pace/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/slimScroll/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/slimScroll/jquery.slimscroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/slimScroll/jquery.slimscroll.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sparkline/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sparkline/sparkline.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/font/summernote.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/font/summernote.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/font/summernote.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ar-AR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-bg-BG.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ca-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-cs-CZ.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-da-DK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-de-DE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-es-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-es-EU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-fa-IR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-fi-FI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-fr-FR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-gl-ES.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-he-IL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-hr-HR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-hu-HU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-id-ID.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-it-IT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ja-JP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ko-KR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-lt-LT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-lt-LV.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-nb-NO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-nl-NL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-pl-PL.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-pt-BR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-pt-PT.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ro-RO.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-ru-RU.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-sk-SK.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-sl-SI.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-sr-RS-Latin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-sr-RS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-sv-SE.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-th-TH.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-tr-TR.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-uk-UA.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-vi-VN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-zh-CN.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/lang/summernote-zh-TW.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/plugin/databasic/summernote-ext-databasic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/plugin/databasic/summernote-ext-databasic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/plugin/hello/summernote-ext-hello.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/plugin/specialchars/summernote-ext-specialchars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/summernote.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/summernote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/summernote/summernote.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sweetalert/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sweetalert/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sweetalert/sweetalert.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/sweetalert/sweetalert.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/html2canvas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/jquery.base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/jspdf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/sprintf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/table-export/tableExport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/tree-view/tree-view.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/css/icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/css/trumbowyg.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/css/trumbowyg.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/js/trumbowyg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/trumbowyg/js/trumbowyg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/validator/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/validator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/plugins/validator/validator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/fonts/socicon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/fonts/socicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/fonts/socicon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/socicon/social.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/fonts/themify.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/fonts/themify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/fonts/themify.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/fonts/themify.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/themify-icons/themify-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/css/weather-icons-wind.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/css/weather-icons-wind.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/css/weather-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/css/weather-icons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/font/weathericons-regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/font/weathericons-regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/font/weathericons-regular-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/font/weathericons-regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/assets/weather-icons/font/weathericons-regular-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1137740264">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="js" value="1" />
+          <entry key="png" value="1" />
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="202" />
+          <entry key="py" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="202" />
+          <entry key="Python" value="15" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quoteproject/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quoteproject/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/quoteproject/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="e#646#678#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index.html</find>
+      <find>href</find>
+      <find>&lt;img</find>
+      <find>png</find>
+      <find>img</find>
+      <find>assets/dist/img/football.png</find>
+      <find>static</find>
+      <find>assets/dist/js/dashboard.js</find>
+      <find>link</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/templates/assets</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/quoteproject/urls.py" />
+        <option value="$PROJECT_DIR$/quoteproject/views.py" />
+        <option value="$PROJECT_DIR$/quoteproject/settings.py" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="quoteproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="quoteproject" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b6a8493-75ff-41c0-9dc3-5e48e00c89f5" name="Default Changelist" comment="" />
+      <created>1534271876344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534271876344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="951" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/documentation/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quoteproject/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#646#678#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quoteproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/dist/img/football.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/dist/js/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quoteproject/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
